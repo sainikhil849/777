@@ -1,5 +1,1 @@
-const greetGitHub = () => {
-  console.log("Hello GitHub!");
-};
 
-greetGitHub();
